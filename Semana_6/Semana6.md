@@ -3,7 +3,7 @@
 ## Semana 6.
 
 # El dia de hoy aprendi los operadores relacionales y logicos que son los siguientes con algunos ejemplos 
-Símbolo	    Significado	     Ejemplo	    Resultado
+#Símbolo	    Significado	     Ejemplo	    Resultado
 ==	         Igual que	      5 == 7	       False
 !=	        Distinto que	    rojo != verde	 True
 <	          Menor que	        8 < 12	       True
