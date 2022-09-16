@@ -15,9 +15,9 @@ mi_lista = ['cadena de texto', 15, 2.8, 'otro dato', 25]
 print mi_diccionario['clave_2'] # Salida: valor_2
 Estos tres tipos, pueden almacenar colecciones de datos de diversos tipos y se diferencian por su sintaxis y por la forma en la cual los datos pueden ser manipulados.
 # Tambien en esta semana eh llevado a cabo la Asigancion multiple que es la de poder asignar en una sola instrucción, múltiples variables:
-a, b, c = 'string', 15, True
+# a, b, c = 'string', 15, True
 # En una sola instrucción, estamos declarando tres variables: a, b y c y asignándoles un valor concreto a cada una:
->>> print a
+# >>> print a
 string
 >>> print b
 15
