@@ -3,7 +3,7 @@
 ## Semana 3.
 Aprendi que Existen diversos tipos de datos Variable o Constante pueden tener diferentes valores de diversos tipos 
 Ejemplo un String
-mi_cadena " Hola Mundo ! "
+# mi_cadena " Hola Mundo ! "
 mi_cadena_multilinea = """
 Número entero :
  edad = 35
