@@ -17,9 +17,10 @@ Estos tres tipos, pueden almacenar colecciones de datos de diversos tipos y se d
 # Tambien en esta semana eh llevado a cabo la Asigancion multiple que es la de poder asignar en una sola instrucción, múltiples variables:
 # a, b, c = 'string', 15, True
 # En una sola instrucción, estamos declarando tres variables: a, b y c y asignándoles un valor concreto a cada una:
-# >>> print a
+# print a
 string
->>> print b
+# print b
 15
->>> print c
+# print c
 True
+
