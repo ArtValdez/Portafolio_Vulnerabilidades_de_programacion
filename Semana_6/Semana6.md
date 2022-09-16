@@ -2,7 +2,7 @@
 
 ## Semana 6.
 
-El dia de hoy aprendi los operadores relacionales que son los siguientes 
+# El dia de hoy aprendi los operadores relacionales que son los siguientes 
 Símbolo	    Significado	     Ejemplo	    Resultado
 ==	         Igual que	      5 == 7	       False
 !=	        Distinto que	    rojo != verde	 True
